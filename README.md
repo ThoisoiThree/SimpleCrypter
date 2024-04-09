@@ -21,3 +21,4 @@
 * **PyQt 5**
 * **PyCryptodome**
 ### There's also a compiled portable .exe that doesn't need any requirements
+> Check Releases
