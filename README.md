@@ -2,6 +2,7 @@
 ### Is a simple Python script with GUI that encodes/decodes files 
 
 ![GUI](https://i.ibb.co/9qvvsmj/image.png)
+>For legal use only!
 
 ### Features:
 * **Compiled binaries for macOS, Windows, Linux**
