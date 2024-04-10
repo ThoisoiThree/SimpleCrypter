@@ -1,5 +1,6 @@
 # Simple Crypter
 ### Is a simple Python script with GUI that encodes/decodes files 
+> If you don't want to install Python and other libs — use compiled portable binaries from `Releases`
 
 ![GUI](https://i.ibb.co/9qvvsmj/image.png)
 >For legal use only!
@@ -24,5 +25,3 @@
 * **Python 3**
 * **PyQt 5**
 * **PyCryptodome**
-### If you don't want to install Python and other libs — use compiled portable binaries
-> Check Releases
