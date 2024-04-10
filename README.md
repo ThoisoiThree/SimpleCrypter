@@ -4,6 +4,7 @@
 ![GUI](https://i.ibb.co/9qvvsmj/image.png)
 
 ### Features:
+* **Compiled binaries for macOS, Windows, Linux**
 * **Any file format support**
 * **Any length password**
 * **AES-256**
@@ -17,8 +18,9 @@
 * **Enjoy!**
 
 ## Requirements:
+>For Python version 
 * **Python 3**
 * **PyQt 5**
 * **PyCryptodome**
-### There's also a compiled portable .exe that doesn't need any requirements
+### If you don't want to install Python and other libs — use compiled portable binaries
 > Check Releases
