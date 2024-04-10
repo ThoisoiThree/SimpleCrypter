@@ -12,7 +12,7 @@
 * **Uses SHA-256 hash as the key**
  
 ## Usage:
-> In macOS/Linux: type in the Terminal `chmod +x 'path_to_the_file'` to make the file executable
+> For binaries in macOS/Linux: type in the Terminal `chmod +x 'path_to_the_file'` to make the file executable
 * Select the `file to process` and the `processed file path`
 * Enter the password that will be used both for encryption and decryption
 * Select the mode: `Encrypt` or `Decrypt`, the `file to process` will be encrypted or decrypted
